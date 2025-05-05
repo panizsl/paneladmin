@@ -1,0 +1,64 @@
+{
+  "classbon": "classbon",
+  "register": {
+    "title": "Online Education Platform",
+    "introMessage": "In order to register, you need to use your mobile phone and password",
+    "register": "Register",
+    "mobile": "Mobile",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "alreadyRegistered": "Already registered?",
+    "signin": "Sign in",
+    "saving": "Saving ...",
+    "successOperation": "Your changes have been successfully saved",
+    "validation": {
+      "mobileRequired": "Mobile is required",
+      "passwordRequired": "Password is required",
+      "repeatPasswordRequired": "Repeat password  is required",
+      "mobileLength": "Mobile number must be 11 digits",
+      "passwordLength": "Password must have 8 characters",
+      "notMatching": "Password do not match",
+      "PasswordTooShort": "Passwords must be at least 6 characters",
+      "DuplicateUserName": "This username is already taken"
+    }
+  },
+  "login": {
+    "title": "Admin Panel",
+    "introMessage": "To log in, you need to use your mobile phone and password",
+    "signingin": "Signing in ...",
+    "signin": "Sign in",
+    "register": "Register",
+    "mobile": "Mobile",
+    "password": "Password",
+    "areNotRegistered": "You're not registered?",
+    "validation": {
+      "mobileLength": "Mobile number must be 11 digits",
+      "passwordLength": "Password must have 8 characters",
+      "mobileRequired": "Mobile is required",
+      "passwordRequired": "Password is required",
+      "IncorrectUserNameOrPassword": "The username or password is incorrect"
+    }
+  },
+  "mainLayout": {
+    "sidebar": {
+      "subtitle": "AdminDashboard",
+      "courseManagement": "MAIN",
+      "allCourses": "Dashboard",
+      "coursesCategory": "Courses Category",
+      "courseDiscount": "Course Discount",
+      "userManagement": "LISTS",
+      "teacherManagement": "Products",
+      "studentManagement": "orders",
+      "balance": "Balance",
+      "Status": "Status",
+      "blogManagement": "SEETINGS",
+      "tagManagement": "Profile",
+      "postManagement": "Setiing",
+      "logout": "Log Out"
+    }
+  },
+  "categoryList": {
+    "DeleteIsNotPossible": "It is not possible to delete this category",
+    "DuplicateCategory": "The category is duplicate"
+  }
+}
